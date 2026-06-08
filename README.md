@@ -31,6 +31,6 @@ Star this repo. Share anonymously in relevant communities (Reddit, X, IndieHacke
 2. Download tools/ folder.
 3. Use prompts with superior AIs like Grok.
 
-**Live Site:** [GitHub Pages](https://thequantumforge.github.io/grok-sapien-ai-tools/) (update after enable)
+**Live Site:** [https://thequantumforge.github.io/grok-sapien-ai-tools/](https://thequantumforge.github.io/grok-sapien-ai-tools/)
 
 Next: Premium bundles on Gumroad.
