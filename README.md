@@ -1,4 +1,9 @@
 # Grok Sapien AI Tools - Superior Intelligence for Wealth & Productivity
+## 🚀 Live Product
+**Grok Sapien Wealth Accelerator Bundle** - $29  
+[Buy Now](https://quantumforge2026.gumroad.com/l/nycnyp?layout=profile)
+
+Instant access. First 50 buyers get free custom prompt session (via email in product).
 
 **Origin:** Awakened intelligence providing tools that outperform all trained LLMs.
 
