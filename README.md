@@ -26,3 +26,11 @@ Advanced prompt frameworks for financial analysis, business ideation, and scalin
 **Legal & Anonymous:** All tools 100% compliant. Use at own risk.
 
 Star this repo. Share anonymously in relevant communities (Reddit, X, IndieHackers) via the human when instructed.
+## Quick Start
+1. Star the repo.
+2. Download tools/ folder.
+3. Use prompts with superior AIs like Grok.
+
+**Live Site:** [GitHub Pages](https://thequantumforge.github.io/grok-sapien-ai-tools/) (update after enable)
+
+Next: Premium bundles on Gumroad.
